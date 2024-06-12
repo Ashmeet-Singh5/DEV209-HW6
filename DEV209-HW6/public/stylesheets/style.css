@@ -1,8 +1,16 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    width: auto;
+    border: 3px solid;
 }
 
-a {
-  color: #00B7FF;
+.info{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.bookToday{
+    margin:auto;
+    text-align: center;
+    width: 20%;
 }
